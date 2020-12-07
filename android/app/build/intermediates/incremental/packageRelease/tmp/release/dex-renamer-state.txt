@@ -1,0 +1,4 @@
+#Mon Dec 07 09:50:08 CST 2020
+base.0=A\:\\project_2020\\12_04_Travel_RN\\work\\JustTravel\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

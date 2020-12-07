@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JustTravel.iml" filepath="$PROJECT_DIR$/.idea/modules/JustTravel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/JustTravel.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/JustTravel.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2015553508/JustTravel.react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/2015553508/JustTravel.react-native-community_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1428189425/JustTravel.react-native-community_datetimepicker.iml" filepath="$PROJECT_DIR$/.idea/modules/-1428189425/JustTravel.react-native-community_datetimepicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1980821473/JustTravel.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1980821473/JustTravel.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1321172970/JustTravel.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1321172970/JustTravel.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1596965489/JustTravel.react-native-picker_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-1596965489/JustTravel.react-native-picker_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2144475066/JustTravel.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-2144475066/JustTravel.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1980503297/JustTravel.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1980503297/JustTravel.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1860840919/JustTravel.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1860840919/JustTravel.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-858947712/JustTravel.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-858947712/JustTravel.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>
