@@ -1,0 +1,10 @@
+{
+    "auth": {
+        "setUser": "SET_USER",
+        "setWallet": "SET_WALLET"
+    },
+    "home": {
+        "setFlights": "SET_FLIGHTS",
+        "setSearchItems": "SET_SEARCH_ITEMS"
+    }
+}
